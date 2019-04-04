@@ -165,11 +165,11 @@ p a {
 }
 
 /* PARAGRAPH STYLES */
-.paraStyleDes {
+.paraStyle__designer--name {
 
 }
 
-.paraStyleDisc {
+.paraStyle__designer--description {
 
 }
 
@@ -178,6 +178,11 @@ p a {
 .col {
     padding: 5em;
 }
+
+/* .border {
+    border: 3px solid #faabde;
+    padding: -80px;
+} */
 
 .testImage {
     height: 50%;
@@ -189,7 +194,8 @@ p a {
     width: 100%;
 }
 
-.header--css {
+.header--css,
+.header--colours {
     width: 100%;
     padding-top: 20px;
     padding-bottom: 10px;
